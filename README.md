@@ -1,2 +1,2 @@
 # wapsysinfo
-WAP system information
+WAP system information in PHP
